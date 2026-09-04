@@ -147,7 +147,7 @@ floor has already run your program on the bench — so start-up is commissioning
 
 **Process experience**
 
-`[01]`&nbsp;&nbsp;Temperature control and PID tuning<br>
+`[01]`&nbsp;&nbsp;Temperature control &amp; PID tuning<br>
 `[02]`&nbsp;&nbsp;Web handling and tension control<br>
 `[03]`&nbsp;&nbsp;Pressure control<br>
 `[04]`&nbsp;&nbsp;VFD programming and tuning
