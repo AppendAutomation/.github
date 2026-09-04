@@ -164,9 +164,9 @@ floor has already run your program on the bench — so start-up is commissioning
 
 ![Node.js](https://img.shields.io/badge/Node.js-8B0417?style=flat-square&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-8B0417?style=flat-square&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-8B0417?style=flat-square&logoColor=white) ![C#](https://img.shields.io/badge/C%23-8B0417?style=flat-square&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-8B0417?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-8B0417?style=flat-square&logoColor=white) ![Web dashboards](https://img.shields.io/badge/Web%20dashboards-8B0417?style=flat-square&logoColor=white)
 
-<table width="100%">
+<table>
 <tr valign="top">
-<td width="50%">
+<td>
 
 **Process experience**
 
@@ -176,7 +176,7 @@ floor has already run your program on the bench — so start-up is commissioning
 `[04]`&nbsp;&nbsp;VFD programming and tuning
 
 </td>
-<td width="50%">
+<td>
 
 **Industries served**
 
