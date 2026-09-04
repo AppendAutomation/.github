@@ -1,21 +1,5 @@
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/banner.png" alt="Append Automation — your machine isn't obsolete, your controls probably are" width="100%">
-
-### Industrial control systems &amp; automation engineering
-
-New control system design, legacy upgrades and process improvement for plant-floor equipment that
-still has life left in it.
-
-[**appendautomation.com**](https://appendautomation.com) &nbsp;·&nbsp;
-[sales@appendautomation.com](mailto:sales@appendautomation.com) &nbsp;·&nbsp;
-Schwenksville, Pennsylvania
-
-</div>
-
----
-
-## `// 01` Open source from the bench
+# Open source from the bench
 
 Tools we built for our own plant-floor work and publish here for anyone who needs them.
 
@@ -37,6 +21,21 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 
 # About Us
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/banner.png" alt="Append Automation — your machine isn't obsolete, your controls probably are" width="100%">
+
+### Industrial control systems &amp; automation engineering
+
+New control system design, legacy upgrades and process improvement for plant-floor equipment that
+still has life left in it.
+
+[**appendautomation.com**](https://appendautomation.com) &nbsp;·&nbsp;
+[sales@appendautomation.com](mailto:sales@appendautomation.com) &nbsp;·&nbsp;
+Schwenksville, Pennsylvania
+
+</div>
+
 Is your manufacturing process stuck in the 90&rsquo;s? We are senior automation professionals with over
 50 years combined experience managing the delicate intersection between machine control and business
 development — new control system design, legacy upgrades, and relentless focus on process efficiency.
@@ -52,7 +51,7 @@ development — new control system design, legacy upgrades, and relentless focus
 
 ---
 
-## `// 02` Everything from the terminal block to the dashboard
+## `// 01` Everything from the terminal block to the dashboard
 
 Offered on an hourly rate or as lump sum for defined projects. One team carries the work from concept
 drawings through commissioning, so nothing is lost between disciplines.
@@ -123,7 +122,7 @@ drawings through commissioning, so nothing is lost between disciplines.
 
 ---
 
-## `// 03` Panel &amp; cabinet fabrication — built, wired and proven before it ships
+## `// 02` Panel &amp; cabinet fabrication — built, wired and proven before it ships
 
 <table>
 <tr valign="top">
@@ -150,7 +149,7 @@ floor has already run your program on the bench — so start-up is commissioning
 
 ---
 
-## `// 04` No matter the platform, we have probably seen it
+## `// 03` No matter the platform, we have probably seen it
 
 **PLC**
 
@@ -208,7 +207,7 @@ floor has already run your program on the bench — so start-up is commissioning
 
 ---
 
-## `// 05` Five steps, no surprises
+## `// 04` Five steps, no surprises
 
 Every engagement follows the same path, whether it is a two-day PID tuning visit or a full line
 retrofit. You always know what happens next and what it costs.
@@ -231,7 +230,7 @@ retrofit. You always know what happens next and what it costs.
 
 ---
 
-## `// 06` Hire the expertise, not the headcount
+## `// 05` Hire the expertise, not the headcount
 
 <table>
 <tr valign="top">
@@ -288,7 +287,7 @@ with right now.
 
 ---
 
-## `// 07` The partners are the engineers
+## `// 06` The partners are the engineers
 
 No account managers between you and the people writing the code.
 
