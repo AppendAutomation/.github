@@ -27,9 +27,6 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 
 ### Industrial control systems &amp; automation engineering
 
-New control system design, legacy upgrades and process improvement for plant-floor equipment that
-still has life left in it.
-
 [**appendautomation.com**](https://appendautomation.com) &nbsp;·&nbsp;
 [sales@appendautomation.com](mailto:sales@appendautomation.com) &nbsp;·&nbsp;
 Schwenksville, Pennsylvania
