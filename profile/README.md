@@ -4,15 +4,42 @@
 
 ### Industrial control systems &amp; automation engineering
 
-Is your manufacturing process stuck in the 90&rsquo;s? We are senior automation professionals with over
-50 years combined experience managing the delicate intersection between machine control and business
-development — new control system design, legacy upgrades, and relentless focus on process efficiency.
+New control system design, legacy upgrades and process improvement for plant-floor equipment that
+still has life left in it.
 
 [**appendautomation.com**](https://appendautomation.com) &nbsp;·&nbsp;
 [sales@appendautomation.com](mailto:sales@appendautomation.com) &nbsp;·&nbsp;
 Schwenksville, Pennsylvania
 
 </div>
+
+---
+
+## `// 01` Open source from the bench
+
+Tools we built for our own plant-floor work and publish here for anyone who needs them.
+
+| Repository | What it does |
+|---|---|
+| [**pylogix_cli**](https://github.com/AppendAutomation/pylogix_cli) | Command line application for executing pylogix commands. |
+| [**pycomm3_slc_cli**](https://github.com/AppendAutomation/pycomm3_slc_cli) | Command line application for executing pycomm3 functions. |
+| [**pyModbusTCP_cli**](https://github.com/AppendAutomation/pyModbusTCP_cli) | Command line wrapper for the pyModbusTCP library. |
+| [**cslogix**](https://github.com/AppendAutomation/cslogix) | C# version of pylogix. |
+| [**cscomm3_slc**](https://github.com/AppendAutomation/cscomm3_slc) | A C# conversion of the pycomm3 library, for SLC communications over Ethernet. |
+| [**pyDHCP**](https://github.com/AppendAutomation/pyDHCP) | Python DHCP/BOOTP server for assigning IP addresses to devices. |
+| [**MailAlertServer**](https://github.com/AppendAutomation/MailAlertServer) | Email alert service driven by SQL queries. |
+| [**MailRequestServer**](https://github.com/AppendAutomation/MailRequestServer) | Email request service driven by SQL queries. |
+| [**AlertMailComposer**](https://github.com/AppendAutomation/AlertMailComposer) | A GUI editor for the alert mail service. |
+| [**pv_tools**](https://github.com/AppendAutomation/pv_tools) | PanelView display interrogator. |
+| [**batch-gui-executer**](https://github.com/AppendAutomation/batch-gui-executer) | Run a batch file with feedback for the user while it works. |
+
+---
+
+# About Us
+
+Is your manufacturing process stuck in the 90&rsquo;s? We are senior automation professionals with over
+50 years combined experience managing the delicate intersection between machine control and business
+development — new control system design, legacy upgrades, and relentless focus on process efficiency.
 
 <table align="center">
 <tr>
@@ -25,7 +52,7 @@ Schwenksville, Pennsylvania
 
 ---
 
-## `// 01` Everything from the terminal block to the dashboard
+## `// 02` Everything from the terminal block to the dashboard
 
 Offered on an hourly rate or as lump sum for defined projects. One team carries the work from concept
 drawings through commissioning, so nothing is lost between disciplines.
@@ -96,7 +123,7 @@ drawings through commissioning, so nothing is lost between disciplines.
 
 ---
 
-## `// 02` Panel &amp; cabinet fabrication — built, wired and proven before it ships
+## `// 03` Panel &amp; cabinet fabrication — built, wired and proven before it ships
 
 <table>
 <tr valign="top">
@@ -123,7 +150,7 @@ floor has already run your program on the bench — so start-up is commissioning
 
 ---
 
-## `// 03` No matter the platform, we have probably seen it
+## `// 04` No matter the platform, we have probably seen it
 
 **PLC**
 
@@ -181,7 +208,7 @@ floor has already run your program on the bench — so start-up is commissioning
 
 ---
 
-## `// 04` Five steps, no surprises
+## `// 05` Five steps, no surprises
 
 Every engagement follows the same path, whether it is a two-day PID tuning visit or a full line
 retrofit. You always know what happens next and what it costs.
@@ -204,7 +231,7 @@ retrofit. You always know what happens next and what it costs.
 
 ---
 
-## `// 05` Hire the expertise, not the headcount
+## `// 06` Hire the expertise, not the headcount
 
 <table>
 <tr valign="top">
@@ -261,7 +288,7 @@ with right now.
 
 ---
 
-## `// 06` The partners are the engineers
+## `// 07` The partners are the engineers
 
 No account managers between you and the people writing the code.
 
@@ -301,26 +328,6 @@ Quotes, scheduling, and questions about whether your project is a fit. We answer
 </td>
 </tr>
 </table>
-
----
-
-## `// 07` Open source from the bench
-
-Tools we built for our own plant-floor work and publish here for anyone who needs them.
-
-| Repository | What it does |
-|---|---|
-| [**pylogix_cli**](https://github.com/AppendAutomation/pylogix_cli) | Command line application for executing pylogix commands. |
-| [**pycomm3_slc_cli**](https://github.com/AppendAutomation/pycomm3_slc_cli) | Command line application for executing pycomm3 functions. |
-| [**pyModbusTCP_cli**](https://github.com/AppendAutomation/pyModbusTCP_cli) | Command line wrapper for the pyModbusTCP library. |
-| [**cslogix**](https://github.com/AppendAutomation/cslogix) | C# version of pylogix. |
-| [**cscomm3_slc**](https://github.com/AppendAutomation/cscomm3_slc) | A C# conversion of the pycomm3 library, for SLC communications over Ethernet. |
-| [**pyDHCP**](https://github.com/AppendAutomation/pyDHCP) | Python DHCP/BOOTP server for assigning IP addresses to devices. |
-| [**MailAlertServer**](https://github.com/AppendAutomation/MailAlertServer) | Email alert service driven by SQL queries. |
-| [**MailRequestServer**](https://github.com/AppendAutomation/MailRequestServer) | Email request service driven by SQL queries. |
-| [**AlertMailComposer**](https://github.com/AppendAutomation/AlertMailComposer) | A GUI editor for the alert mail service. |
-| [**pv_tools**](https://github.com/AppendAutomation/pv_tools) | PanelView display interrogator. |
-| [**batch-gui-executer**](https://github.com/AppendAutomation/batch-gui-executer) | Run a batch file with feedback for the user while it works. |
 
 ---
 
