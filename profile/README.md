@@ -192,7 +192,7 @@ floor has already run your program on the bench — so start-up is commissioning
 <table>
 <tr>
 <td width="33%"><img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/plc-rack.jpg" alt="Allen-Bradley PLC rack" width="100%"></td>
-<td width="33%"><img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/hmi-panel.jpg" alt="Operator HMI panel on the plant floor" width="100%"></td>
+<td width="33%"><img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/hmi-station.jpg" alt="Allen-Bradley PanelView Plus operator station with safety reset and emergency stop" width="100%"></td>
 <td width="33%"><img src="https://raw.githubusercontent.com/AppendAutomation/.github/main/profile/assets/network-rack.jpg" alt="Plant-floor network rack" width="100%"></td>
 </tr>
 <tr>
