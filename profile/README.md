@@ -7,6 +7,7 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 |---|---|
 | [**AppendHMIStudio**](https://github.com/AppendAutomation/AppendHMIStudio) | Design, run and publish HMI operator screens for Allen-Bradley Logix, SLC/MicroLogix and Modbus TCP PLCs, with alarms, user security and a run-only Windows runtime. |
 | [**AppendHMIDesktop**](https://github.com/AppendAutomation/AppendHMIDesktop) | Runs AppendHMIStudio applications on operator PCs, from the command line or a launcher with shortcuts and run-at-login. |
+| [**AppendHMIWeb**](https://github.com/AppendAutomation/AppendHMIWeb) | Serves AppendHMIStudio applications to web browsers on the plant network, with live PLC data and fit, maximize or original-size views. |
 | [**pylogix_cli**](https://github.com/AppendAutomation/pylogix_cli) | Command line application for executing pylogix commands. |
 | [**pycomm3_slc_cli**](https://github.com/AppendAutomation/pycomm3_slc_cli) | Command line application for executing pycomm3 functions. |
 | [**pyModbusTCP_cli**](https://github.com/AppendAutomation/pyModbusTCP_cli) | Command line wrapper for the pyModbusTCP library. |
