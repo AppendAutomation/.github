@@ -11,6 +11,8 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 | [**pylogix_cli**](https://github.com/AppendAutomation/pylogix_cli) | Command line application for executing pylogix commands. |
 | [**pycomm3_slc_cli**](https://github.com/AppendAutomation/pycomm3_slc_cli) | Command line application for executing pycomm3 functions. |
 | [**pyModbusTCP_cli**](https://github.com/AppendAutomation/pyModbusTCP_cli) | Command line wrapper for the pyModbusTCP library. |
+| [**pyD50**](https://github.com/AppendAutomation/pyD50) | Python library for Cutler-Hammer D50 PLCs — read and write values, run or stop the CPU, and upload or download programs over a serial device server or a local serial port. |
+| [**pyD50_cli**](https://github.com/AppendAutomation/pyD50_cli) | Command line application for executing pyD50 commands, shipped as a standalone Windows executable for PCs without WinGPC. |
 | [**cslogix**](https://github.com/AppendAutomation/cslogix) | C# version of pylogix. |
 | [**cscomm3_slc**](https://github.com/AppendAutomation/cscomm3_slc) | A C# conversion of the pycomm3 library, for SLC communications over Ethernet. |
 | [**pyDHCP**](https://github.com/AppendAutomation/pyDHCP) | Python DHCP/BOOTP server for assigning IP addresses to devices. |
