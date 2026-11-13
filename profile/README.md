@@ -11,6 +11,7 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 | [**pylogix_cli**](https://github.com/AppendAutomation/pylogix_cli) | Command line application for executing pylogix commands. |
 | [**pycomm3_slc_cli**](https://github.com/AppendAutomation/pycomm3_slc_cli) | Command line application for executing pycomm3 functions. |
 | [**pyModbusTCP_cli**](https://github.com/AppendAutomation/pyModbusTCP_cli) | Command line wrapper for the pyModbusTCP library. |
+| [**pyS7CommPlus_cli**](https://github.com/AppendAutomation/pyS7CommPlus_cli) | Command line application for reading and writing Siemens S7-1200/1500 symbolic tags, shipped as a standalone Windows executable for PCs without TIA Portal. |
 | [**pyD50**](https://github.com/AppendAutomation/pyD50) | Python library for Cutler-Hammer D50 PLCs — read and write values, run or stop the CPU, and upload or download programs over a serial device server or a local serial port. |
 | [**pyD50_cli**](https://github.com/AppendAutomation/pyD50_cli) | Command line application for executing pyD50 commands, shipped as a standalone Windows executable for PCs without WinGPC. |
 | [**cslogix**](https://github.com/AppendAutomation/cslogix) | C# version of pylogix. |
