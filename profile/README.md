@@ -16,6 +16,7 @@ Tools we built for our own plant-floor work and publish here for anyone who need
 | [**pyD50_cli**](https://github.com/AppendAutomation/pyD50_cli) | Command line application for executing pyD50 commands, shipped as a standalone Windows executable for PCs without WinGPC. |
 | [**cslogix**](https://github.com/AppendAutomation/cslogix) | C# version of pylogix. |
 | [**cscomm3_slc**](https://github.com/AppendAutomation/cscomm3_slc) | A C# conversion of the pycomm3 library, for SLC communications over Ethernet. |
+| [**csS7CommPlus**](https://github.com/AppendAutomation/csS7CommPlus) | A C# port of the pyS7commplus library for S7comm-plus communications with Siemens S7-1200/1500 PLCs. |
 | [**pyDHCP**](https://github.com/AppendAutomation/pyDHCP) | Python DHCP/BOOTP server for assigning IP addresses to devices. |
 | [**MailAlertServer**](https://github.com/AppendAutomation/MailAlertServer) | Email alert service driven by SQL queries. |
 | [**MailRequestServer**](https://github.com/AppendAutomation/MailRequestServer) | Email request service driven by SQL queries. |
